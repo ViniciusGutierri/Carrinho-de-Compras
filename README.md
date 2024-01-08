@@ -1,7 +1,7 @@
 <h1>Carrinho de Compras</h1>
 
 <h2>📃 Sobre</h2>
-<p>Projeto desenvolvido durante a Formação de Lógica de Programação da Alura.</p>
+<p>Projeto de um simples Carrinho de Compras desenvolvido durante a Formação de Lógica de Programação da Alura, apenas para reforçar os conceitos ensinados.</p>
 
 ## 🚀 Tecnologias
 
